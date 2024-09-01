@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ecom-ceramics/static/css/main.f855e6bc.css",
+    "main.js": "/ecom-ceramics/static/js/main.dd5ed452.js",
+    "static/js/453.af178710.chunk.js": "/ecom-ceramics/static/js/453.af178710.chunk.js",
+    "static/media/logoo.png": "/ecom-ceramics/static/media/logoo.8050a50e33443a97af78.png",
+    "static/media/ceramicpot.jpg": "/ecom-ceramics/static/media/ceramicpot.3dfbb003e957a2b09a9a.jpg",
+    "index.html": "/ecom-ceramics/index.html",
+    "main.f855e6bc.css.map": "/ecom-ceramics/static/css/main.f855e6bc.css.map",
+    "main.dd5ed452.js.map": "/ecom-ceramics/static/js/main.dd5ed452.js.map",
+    "453.af178710.chunk.js.map": "/ecom-ceramics/static/js/453.af178710.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.dd5ed452.js"
+  ]
+}
