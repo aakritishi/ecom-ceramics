@@ -5,7 +5,7 @@ import ProductCard from './ProductCard'
 export class Home extends Component {
   render() {
     return (
-      <div className='my-4'>
+      <div className=''>
         <IntroductionSection/>
         <ProductCard/>
       </div>
